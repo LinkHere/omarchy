@@ -4,9 +4,9 @@
 autoconf-archive
 base
 base-devel
-broadcom-wl
+#broadcom-wl
 btrfs-progs
-dart
+#dart
 dkms
 egl-wayland
 git
