@@ -1,8 +1,8 @@
 # Omarchy core package list installed via install/packages.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
+#1password-beta
+#1password-cli
 alacritty
 asdcontrol-git
 avahi
@@ -11,15 +11,15 @@ bat
 blueberry
 brightnessctl
 btop
-cargo
+#cargo
 clang
 cups
 cups-browsed
 cups-filters
 cups-pdf
-docker
-docker-buildx
-docker-compose
+#docker
+#docker-buildx
+#docker-compose
 dust
 evince
 eza
@@ -51,16 +51,16 @@ imv
 inetutils
 iwd
 jq
-kdenlive
+#kdenlive
 kvantum-qt5
-lazydocker
-lazygit
+#lazydocker
+#lazygit
 less
 libyaml
 libqalculate
-libreoffice
+#libreoffice
 llvm
-localsend
+#localsend
 luarocks
 mako
 man
@@ -74,8 +74,8 @@ noto-fonts-emoji
 noto-fonts-extra
 nss-mdns
 nvim
-obs-studio
-obsidian
+#obs-studio
+#obsidian
 omarchy-chromium
 omarchy-lazyvim
 pamixer
@@ -94,7 +94,7 @@ ripgrep
 satty
 signal-desktop
 slurp
-spotify
+#spotify
 starship
 sushi
 swaybg
@@ -108,7 +108,7 @@ ttf-jetbrains-mono-nerd
 typora
 tzupdate
 ufw
-ufw-docker
+#ufw-docker
 unzip
 uwsm
 walker-bin
